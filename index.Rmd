@@ -74,7 +74,7 @@ use_logo(
 
 # .white[Potentiale der Schulpädagogik]
 
-.em14[`r fontawesome::fa("tablet-alt", fill = "#ffff", height = "150px")` ]
+.em14[`r fontawesome::fa("lightbulb", fill = "#ffff", height = "150px")` ]
 
 ### .white[in Forschung und Lehre.]
 
@@ -83,7 +83,7 @@ use_logo(
 
 ---  
 .em14[.white[Samuel Merk | PH Karlsruhe]]  
-Folien: .phg[bit.ly/merk031]
+Folien: bit.ly/merk037
 
 ---
 # Übersicht:
