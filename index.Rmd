@@ -78,7 +78,7 @@ use_logo(
 
 ### .white[in Forschung und Lehre.]
 
-<img style="vertical-align:middle" src="https://imagizer.imageshack.com/img922/8876/bipedm.png", width="70px"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img style="vertical-align:middle" src="img/Sa_positiv.png", width="70px"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="vertical-align:middle" src="https://imagizer.imageshack.com/img922/3301/9OMtZ2.png", width="70px"> 
 
 ---  
@@ -93,7 +93,7 @@ Folien: bit.ly/merk037
 * Mein Verständnis von Schulpädagogik
 * Zwei ausgewählte Potentiale der Schulpädagogik
     * Anbahnung evidenz-informierter Praxis
-    * Meta-reflektive Professionalisierung]
+    * Entwicklung meta-reflektiver Professionalität]
 
 ---
 # Schulpädagogik
@@ -183,6 +183,8 @@ knitr::include_graphics("img/Ebbinghaus.png")
 .em13[
 * Einbezug von Primärforschung in die Lehre
 * Stärkung der Research und Data Literacy 
+    * Studentische Forschungsprojekte
+    * Spezialisierte Veranstaltungen
 * Arbeit mit Video- und Textfällen
 * Daten- und -videobasiertes Feedback im Praktikum
 ]
@@ -193,7 +195,7 @@ knitr::include_graphics("img/metareflexivitaet.png")
 ```
 
 ---
-# Potentiale der Anbahnung einer metareflektiven Professionalität
+# Potentiale der Entwicklung meta-reflektiver Professionalität
 ## Forschung
 * Drittmittelprojekt (Antrag in Vorbereitung): *Fostering Evaluative Epistemic Beliefs About Educational Knowledge in Teacher Education*
 * Publikationsprojekte
@@ -202,7 +204,7 @@ knitr::include_graphics("img/metareflexivitaet.png")
     * Rosman, T., Schlag, M., & Merk, S. (2020). Das Zusammenspiel epistemischer Überzeugungen und der Bedeutsamkeitseinschätzung pädagogisch- psychologischen Wissens im Lehramtsstudium: Längsschnittliche und querschnittliche Analysen. *Psychologie in Erziehung und Unterricht 67*(3), 164– 177.
 
 ---
-# Potentiale der Anbahnung einer metareflektiven Professionalität
+# Entwicklung meta-reflektiver Professionalität
 ## Implikationen für die Lehre
 .em13[
 * Offene Diskussion der epistemologischen Charakteristika der jeweiligen Inhalte
