@@ -186,7 +186,7 @@ knitr::include_graphics("img/Ebbinghaus.png")
     * Studentische Forschungsprojekte
     * Spezialisierte Veranstaltungen
 * Arbeit mit Video- und Textfällen
-* Daten- und -videobasiertes Feedback im Praktikum
+* Daten- und videobasiertes Feedback im Praktikum
 ]
 ---
 ## Potential: Anbahnung einer metareflektiven Professionalität
@@ -204,6 +204,7 @@ knitr::include_graphics("img/metareflexivitaet.png")
     * Rosman, T., Schlag, M., & Merk, S. (2020). Das Zusammenspiel epistemischer Überzeugungen und der Bedeutsamkeitseinschätzung pädagogisch- psychologischen Wissens im Lehramtsstudium: Längsschnittliche und querschnittliche Analysen. *Psychologie in Erziehung und Unterricht 67*(3), 164– 177.
 
 ---
+class: hide_logo
 # Entwicklung meta-reflektiver Professionalität
 ## Implikationen für die Lehre
 .em13[
